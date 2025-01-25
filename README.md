@@ -6,7 +6,7 @@
 
 #esp32 | #esp32-wroom-32 | #espcam
 
-Welcome to our experimental code repository focused on the ESP32 family of microcontrollers, including the ESP32-WROOM-32 and ESP-CAM modules.
+Experimental code repository focused on the ESP32 family of microcontrollers, including the ESP32-WROOM-32 and ESP-CAM modules.
 
 ## Project Overview
 
