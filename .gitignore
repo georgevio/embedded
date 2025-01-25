@@ -50,3 +50,21 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# ------------ ARDUINO SPECIFICS ----------------------------#
+
+# Ignore Arduino build files
+*.hex
+*.elf
+*.bin
+
+# Temporary files
+*.tmp
+*.log
+
+# Ignore build directories
+build/
+
+# Ignore specific hardware files
+hardware/arduino/bootloaders/
+
