@@ -1,13 +1,16 @@
 # ESP32 Experimental Projects
 
+![GitHub last commit](https://img.shields.io/github/last-commit/georgevio/embedded)
+![GitHub repo size](https://img.shields.io/github/repo-size/georgevio/embedded)
+![GitHub issues](https://img.shields.io/github/issues/georgevio/embedded)
+
 #esp32 | #esp32-wroom-32 | #espcam
 
-Experimental code repository focused on the ESP32 family of microcontrollers, including the ESP32-WROOM-32 and ESP-CAM modules.
-# This is a personal project, provide AS IS. 
+Welcome to our experimental code repository focused on the ESP32 family of microcontrollers, including the ESP32-WROOM-32 and ESP-CAM modules.
 
 ## Project Overview
 
-The primary goal of this project is to develop an embedded AI application capable of facial recognition. The application aims to identify faces and crawl the internet for similar images or faces.
+This repository contains a collection of experimental code for the ESP32 family. The primary goal of this project is to develop an embedded AI application capable of facial recognition. The application aims to identify faces and crawl the internet for similar images or faces.
 
 ## Features
 
@@ -21,7 +24,7 @@ The primary goal of this project is to develop an embedded AI application capabl
 - **Hardware**:
   - ESP32 Development Board (e.g., ESP32-WROOM-32)
   - ESP-CAM Module
-  - Power Supplies (ext 5V)
+  - Power Supply
   - Cables and Connectors
 
 - **Software**:
@@ -50,11 +53,15 @@ The primary goal of this project is to develop an embedded AI application capabl
 
 ## Contributing
 
-Contributions are welcome! Please fork this repository and submit a pull request with your improvements or new experimental code.
+Contributions are welcome! Please fork this repository and submit a pull request with your improvements or new experimental code. Ensure all tests pass before submitting your pull request.
 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Note
+
+This is a personal project, provided "as is," without any warranty or guarantee.
 
 ## Contact
 
